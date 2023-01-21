@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Not yet](https://news-homepage-fem.vercel.app/)
+- Live Site URL: [News-Homepage](https://news-homepage-fem.vercel.app/)
 
 ## My process
 
